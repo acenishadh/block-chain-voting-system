@@ -7,7 +7,7 @@ import PartyCImg from "./assets/3.jpg";
 
 
 // Replace with your deployed contract address
-const CONTRACT_ADDRESS = "0x5FbDB2315678afecb367f032d93F642f64180aa3";
+const CONTRACT_ADDRESS = "add ur address";
 
 // Placeholder images for parties (you can replace these with actual URLs)
 const PARTY_IMAGES = [PartyAImg, PartyBImg, PartyCImg];
