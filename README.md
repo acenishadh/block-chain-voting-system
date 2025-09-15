@@ -133,6 +133,3 @@ Future Improvements
 - Role-based access for admins  
 - Deployment to public testnet (Goerli or Sepolia)  
 
-License  
--------  
-This project is licensed under the MIT License.  
