@@ -1,4 +1,4 @@
-Blockchain Voting System
+Blockchain Voting System By Nishadh
 =========================
 
 A decentralized voting application built using Solidity, deployed on the Ethereum blockchain, and tested with Hardhat. This project allows registered voters to cast their votes securely and ensures transparency with immutable vote records.  
